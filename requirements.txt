@@ -1,0 +1,6 @@
+streamlit 
+whisper
+sounddevice 
+numpy
+queue
+threading
